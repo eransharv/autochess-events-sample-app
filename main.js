@@ -44,7 +44,7 @@ function gameLaunched(gameInfoResult) {
   }
 
   // NOTE: we divide by 10 to get the game class id without it's sequence number
-  if (Math.floor(gameInfoResult.gameInfo.id/10) != 21566) {
+  if (Math.floor(gameInfoResult.gameInfo.id/10) != 7314) {
     return false;
   }
 
