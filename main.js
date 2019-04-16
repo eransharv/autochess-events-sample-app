@@ -3,6 +3,7 @@ var g_interestedInFeatures = [
   'autochess_match_end',
   'autochess_preparation_start',
   'autochess_preparation_end',
+  'autochess_loading',
   'roster',
 ];
 
